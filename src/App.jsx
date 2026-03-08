@@ -9,6 +9,7 @@ import DocumentManager from './components/common/DocumentManager.jsx';
 import ConflictApp from './components/conflict/ConflictApp.jsx';
 import IssueAnalyzer from './components/analyzer/IssueAnalyzer.jsx';
 
+
 // ── 앱 카드 정의 ─────────────────────────────────────────────────────────────
 const APPS = [
   {
