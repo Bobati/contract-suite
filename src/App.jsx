@@ -1,4 +1,5 @@
 // src/App.jsx
+import React, { useState } from 'react';
 import { useState, useEffect } from 'react';
 import { storage, STORAGE_KEYS } from './hooks/useStorage.js';
 import DocumentManager from './components/common/DocumentManager.jsx';
